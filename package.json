@@ -1,0 +1,21 @@
+{
+  "name": "ElCalc",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Yan Yushkov",
+  "description": "Electron calculator. Nice and fast.",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "Calculator",
+    "linux",
+    "windows",
+    "programm"
+  ],
+  "devDependencies": {
+    "electron": "^7.0.0"
+  }
+}
